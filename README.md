@@ -1,4 +1,4 @@
-# PROJECTS
+# Comparative study
 A comprehensive machine learning experiment was conducted to evaluate the performance of various classifiers on different datasets. 
 The study encompassed four artificial neural networks, each built with distinct architectures, varying the number of hidden layers 
 and activation functions. Python frameworks, specifically TensorFlow and Keras, were utilized to implement and train these models on the MNIST dataset,
